@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../Downloads/keeper-part-3-starting"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Week 5"
+	}
+}

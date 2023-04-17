@@ -19,8 +19,8 @@ const blog = {
 };
 
 const comment = {
-  authorInitials: "AC",
   authorName: "Jo Chattoo",
+  authorInitials: "AC",
   authorComment: "This is a comment",
   authorDate: "2023-04-16",
 };
